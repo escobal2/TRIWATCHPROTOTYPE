@@ -20,7 +20,7 @@ const SkPersonnelForm = () => {
   };
 
   const handleReturn = () => {
-    router.push('admin_form');
+    router.push('Admin_Form');
   };
   
   return (
